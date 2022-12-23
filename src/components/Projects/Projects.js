@@ -25,7 +25,7 @@ function Projects() {
               title="StudyBud"
               description="StudyBud is a community app that is built with Django which connects people with similar interests. Users can create a new topics, follow existing ones, comment, view recent activity and more."
               ghLink="https://github.com/Abhinav-CHD/StudyBud"
-              demoLink="https://studybud-production.up.railway.app/"
+              demoLink="https://studybud-u3jj.onrender.com/"
             />
           </Col>
 
